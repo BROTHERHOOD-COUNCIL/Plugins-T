@@ -101,6 +101,6 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 
 - 💖 [Telethon](https://github.com/LonamiWebs/Telethon)
 - 💖 [Pyrogram](https://github.com/Pyrogram/Pyrogram)
-- 💖 Team Hellbot
-
+- 💖 [Team Hellbot](https://github.com/The-HellBot/HellBot)
+- ❤️‍🔥 [TEAM BROTHERHOOD](https://t.me/the_brotherhood_council)
 ------
