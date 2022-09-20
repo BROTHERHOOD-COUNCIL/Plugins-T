@@ -42,7 +42,7 @@ async def _(event):
     await event.client(functions.photos.UploadProfilePhotoRequest(pfile))
     await event.delete()
     await event.client.send_message(
-        event.chat_id, "😋 **Hello friend!!**", reply_to=reply_message
+        event.chat_id, "😋 **TO KY HAAL HAI GUYZZZ. #MORE_AGGRESSIVE!!**", reply_to=reply_message
     )
     await event.client.send_message(
         Config.LOGGER_ID,
