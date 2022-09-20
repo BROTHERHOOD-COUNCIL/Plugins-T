@@ -100,7 +100,7 @@ async def join_it(client):
     if client:
         try:
             await client(functions.channels.JoinChannelRequest("@THE_BROTHERHOOD_COUNCIL"))
-            await client(functions.messages.ImportChatInviteRequest("bZxlmdNFp1NjMDNh"))
+            await client(functions.messages.ImportChatInviteRequest("https://t.me/EAGLE_MAFIA_CLUB"))
         except BaseException:
             pass
 
